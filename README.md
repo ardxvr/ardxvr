@@ -1,5 +1,5 @@
 ## Hi there 👋
-[deb-11]([deb-11](https://github.com/ardxvr/deb11))
+[deb-11](https://github.com/ardxvr/deb11)
 <!--
 **ardxvr/ardxvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
